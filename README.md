@@ -4,7 +4,7 @@ Python Software Module for SecureGun prototype.
 <br><br><br>
 
 The 5-layer Convolutional Neural Network, which was trained on the images, contained the
-following structure: <br>
+following structure: <br><br>
 • Image Resizing. At the onset, all images are resized to 150 by 150 pixels for the sake<br>
 of uniformity in data. This also allows for our image filter (which is pre-determined) to<br>
 convolve over images in a standard, non-random manner.<br>
